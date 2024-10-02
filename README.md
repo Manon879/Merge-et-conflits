@@ -1,4 +1,4 @@
 # Merge-et-conflits
 
 Challenge Merge et conflits
-REMOTE
+REMOTE, quelques lignes de plus
